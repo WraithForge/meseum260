@@ -16,6 +16,9 @@
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
   </div>
+  <footer>
+  <p>https://github.com/WraithForge/museum260</p>
+  </footer>
 </div>
 </template>
 
